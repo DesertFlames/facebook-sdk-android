@@ -1,5 +1,4 @@
-language: java
-- source 5
+language: java -source 5
 before_install:
   # download the latest android sdk and unzip
   - wget http://dl.google.com/android/android-sdk_r18-linux.tgz

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ca79cb20-b876-45fc-b2ac-4be887c58a9a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="facebook.iws" />
@@ -81,7 +79,7 @@
       <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="10" selection-start="25" selection-end="25" vertical-scroll-proportion="0.033167496" vertical-offset="0" max-vertical-offset="603">
+            <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603">
               <folding />
             </state>
           </provider>
@@ -351,7 +349,11 @@
       <created>1379714446653</created>
       <updated>1379714446653</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aa">
+      <created>1379714663019</created>
+      <updated>1379714663019</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -406,7 +408,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="25" selection-end="25" vertical-scroll-proportion="0.033167496" vertical-offset="0" max-vertical-offset="603">
+        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603">
           <folding />
         </state>
       </provider>
