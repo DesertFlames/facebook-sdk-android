@@ -8,5 +8,15 @@
     <artifactId>facebook</artifactId>
     <version>3.5-SNAPSHOT</version>
 
-    
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>5</source>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>
