@@ -17,19 +17,30 @@
                 <version>3.4.1</version>
                 <configuration>
                     <sdk>
-                        <platform>8</platform>
+                        <platform>10</platform>
                     </sdk>
                 </configuration>
                 <extensions>true</extensions>
             </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>1.5</source>
-                    <target>1.5</target>
-                </configuration>
-            </plugin>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-compiler-plugin</artifactId>
+                        <configuration>
+                            <compilerArgument>-Xlint:all</compilerArgument>
+                            <showWarnings>true</showWarnings>
+                            <showDeprecation>true</showDeprecation>
+                            <source>1.6</source>
+                            <target>1.6</target>
+                        </configuration>
+
+                    </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>com.google.android</groupId>
+            <artifactId>support-v4</artifactId>
+            <version>r7</version>
+        </dependency>
+    </dependencies>
 </project>
