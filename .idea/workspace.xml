@@ -70,7 +70,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="30" selection-start="650" selection-end="650" vertical-scroll-proportion="0.53067994" vertical-offset="0" max-vertical-offset="603">
+            <state line="17" column="31" selection-start="692" selection-end="692" vertical-scroll-proportion="0.5638474" vertical-offset="0" max-vertical-offset="603">
               <folding />
             </state>
           </provider>
@@ -79,7 +79,7 @@
       <file leaf-file-name=".travis.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="61" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="740">
+            <state line="31" column="61" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="740">
               <folding />
             </state>
           </provider>
@@ -416,7 +416,11 @@
       <created>1379715969316</created>
       <updated>1379715969316</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="A">
+      <created>1379716229616</created>
+      <updated>1379716229616</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -486,14 +490,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="61" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="740">
+        <state line="31" column="61" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="740">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="30" selection-start="650" selection-end="650" vertical-scroll-proportion="0.53067994" vertical-offset="0" max-vertical-offset="603">
+        <state line="17" column="31" selection-start="692" selection-end="692" vertical-scroll-proportion="0.5638474" vertical-offset="0" max-vertical-offset="603">
           <folding />
         </state>
       </provider>
