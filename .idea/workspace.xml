@@ -7,8 +7,8 @@
     </list>
     <ignored path="facebook.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ca79cb20-b876-45fc-b2ac-4be887c58a9a" time="1380110178357" ignored="false" />
-    <file path="/pom.xml" changelist="ca79cb20-b876-45fc-b2ac-4be887c58a9a" time="1380112350117" ignored="false" />
+    <file path="/Dummy.txt" changelist="ca79cb20-b876-45fc-b2ac-4be887c58a9a" time="1380112420772" ignored="false" />
+    <file path="/pom.xml" changelist="ca79cb20-b876-45fc-b2ac-4be887c58a9a" time="1380112922182" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="21" selection-start="434" selection-end="434" vertical-scroll-proportion="0.32008368">
+            <state line="39" column="26" selection-start="1536" selection-end="1536" vertical-scroll-proportion="0.5334728">
               <folding />
             </state>
           </provider>
@@ -517,7 +517,11 @@
       <created>1380110182514</created>
       <updated>1380110182514</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="A">
+      <created>1380112424780</created>
+      <updated>1380112424780</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -592,7 +596,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="GOOD3" />
+    <option name="LAST_COMMIT_MESSAGE" value="A" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -607,11 +611,11 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="aa" />
-    <MESSAGE value="A" />
     <MESSAGE value="    A" />
     <MESSAGE value="GOOD" />
     <MESSAGE value="GOOD2" />
     <MESSAGE value="GOOD3" />
+    <MESSAGE value="A" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -718,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="434" selection-end="434" vertical-scroll-proportion="0.32008368">
+        <state line="39" column="26" selection-start="1536" selection-end="1536" vertical-scroll-proportion="0.5334728">
           <folding />
         </state>
       </provider>
